@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 540 360" role="img" aria-label="集群智能 ③ placeholder">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#7e22ce"/><stop offset=".55" stop-color="#a21caf"/><stop offset="1" stop-color="#ec4899"/></linearGradient></defs>
+<rect width="540" height="360" fill="url(#g)"/>
+<text x="270" y="176" text-anchor="middle" font-family="system-ui,sans-serif" font-size="22" font-weight="700" fill="#fff">集群智能 ③</text>
+<text x="270" y="202" text-anchor="middle" font-family="system-ui,sans-serif" font-size="14" fill="#fff" opacity=".75">3:2</text>
+</svg>
